@@ -23,6 +23,13 @@ The easiest way to use this tool is by downloading the pre-built executable (`.e
     
 2. **Run:** Simply double-click the executable file to start the service. The application will run minimized in your system tray.
     
+## Demo
+
+
+
+https://github.com/user-attachments/assets/704bdf3d-469a-42a4-a956-e2bf1a8a443f
+
+
 
 ## For Developers: How to Build from Source
 
