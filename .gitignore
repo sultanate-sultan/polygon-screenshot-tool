@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+.venv/
+venv/
+
+# PyInstaller
+/build/
+/dist/
+*.spec
+
+# Executables
+*.exe
